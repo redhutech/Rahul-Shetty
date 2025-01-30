@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-30T15:56:05 IST" name="Suite" finished-at="2025-01-30T15:56:05 IST" duration-ms="373">
+    <groups>
+    </groups>
+    <test started-at="2025-01-30T15:56:05 IST" name="Personal" finished-at="2025-01-30T15:56:05 IST" duration-ms="183">
+      <class name="TEST.Test4">
+        <test-method signature="LoginApiHome()[pri:0, instance:TEST.Test4@6574a52c]" started-at="2025-01-30T15:56:05 IST" name="LoginApiHome" finished-at="2025-01-30T15:56:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApiHome -->
+        <test-method signature="MobileLoginHome()[pri:0, instance:TEST.Test4@6574a52c]" started-at="2025-01-30T15:56:05 IST" name="MobileLoginHome" finished-at="2025-01-30T15:56:05 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHome -->
+        <test-method signature="WebloginHome()[pri:0, instance:TEST.Test4@6574a52c]" started-at="2025-01-30T15:56:05 IST" name="WebloginHome" finished-at="2025-01-30T15:56:05 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginHome -->
+      </class> <!-- TEST.Test4 -->
+      <class name="TEST.Test2">
+        <test-method is-config="true" signature="PLoan1()[pri:0, instance:TEST.Test2@1ffaf86]" started-at="2025-01-30T15:56:05 IST" name="PLoan1" finished-at="2025-01-30T15:56:05 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PLoan1 -->
+        <test-method signature="PLoan()[pri:0, instance:TEST.Test2@1ffaf86]" started-at="2025-01-30T15:56:05 IST" name="PLoan" finished-at="2025-01-30T15:56:05 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PLoan -->
+      </class> <!-- TEST.Test2 -->
+      <class name="TEST.Test1">
+        <test-method signature="Demo()[pri:0, instance:TEST.Test1@38cee291]" started-at="2025-01-30T15:56:05 IST" name="Demo" finished-at="2025-01-30T15:56:05 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method is-config="true" signature="Demo2()[pri:0, instance:TEST.Test1@38cee291]" started-at="2025-01-30T15:56:05 IST" name="Demo2" finished-at="2025-01-30T15:56:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- TEST.Test1 -->
+    </test> <!-- Personal -->
+    <test started-at="2025-01-30T15:56:05 IST" name="Car Loan" finished-at="2025-01-30T15:56:05 IST" duration-ms="16">
+      <class name="TEST.Test3">
+        <test-method is-config="true" signature="BfSuite()[pri:0, instance:TEST.Test3@53045c6c]" started-at="2025-01-30T15:56:05 IST" name="BfSuite" finished-at="2025-01-30T15:56:05 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BfSuite -->
+        <test-method signature="WebloginCar()[pri:0, instance:TEST.Test3@53045c6c]" started-at="2025-01-30T15:56:05 IST" name="WebloginCar" finished-at="2025-01-30T15:56:05 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginCar -->
+      </class> <!-- TEST.Test3 -->
+      <class name="TEST.Test1">
+        <test-method is-config="true" signature="Demo3()[pri:0, instance:TEST.Test1@38cee291]" started-at="2025-01-30T15:56:05 IST" name="Demo3" finished-at="2025-01-30T15:56:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo3 -->
+      </class> <!-- TEST.Test1 -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- Suite -->
+</testng-results>
